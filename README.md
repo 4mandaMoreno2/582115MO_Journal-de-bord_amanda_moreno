@@ -1,1 +1,3 @@
-# amanda-1111
+_hello world_
+~~i love ice cream~~
+**chocolate mint**
