@@ -1,4 +1,6 @@
-# Un petit résumé de moi #
+# journal de bord #
+
+## Un petit résumé de moi ##
 
 _salut je m'appelle_ **amanda** ~~je suis venue en multimédia parce que j'aime l'art, surtout quand on peu la travailler dans des ordis.~~
 
