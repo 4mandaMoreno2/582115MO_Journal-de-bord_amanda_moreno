@@ -65,3 +65,6 @@ L'intégrateur web produit des sites internet. Il assemble des fichiers informat
 _designer numérique_
 
 Le travail d'un designer numérique consiste en la création de produits ou de services multimédias, en y intégrant du texte, des images, des sons. Il s’occupe du design de produit, du design d’interface et de la conception de l’information ainsi que de son architecture. Le designer doit répondre à la fois aux besoins des utilisateurs et aux objectifs commerciaux. Pour ce domaine, il faut avoir de la créativité, le sens de l’observation et de pouvoir travailler en équipe. Ils peuvent travailler en agence de design, en indépendant, en bureau intégré à une entreprise ou aussi en service Recherche et Développement. Ce travail parait moyennement intéressant. 
+
+# cour 5 #
+
