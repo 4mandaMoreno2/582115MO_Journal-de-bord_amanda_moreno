@@ -67,4 +67,14 @@ _designer numérique_
 Le travail d'un designer numérique consiste en la création de produits ou de services multimédias, en y intégrant du texte, des images, des sons. Il s’occupe du design de produit, du design d’interface et de la conception de l’information ainsi que de son architecture. Le designer doit répondre à la fois aux besoins des utilisateurs et aux objectifs commerciaux. Pour ce domaine, il faut avoir de la créativité, le sens de l’observation et de pouvoir travailler en équipe. Ils peuvent travailler en agence de design, en indépendant, en bureau intégré à une entreprise ou aussi en service Recherche et Développement. Ce travail parait moyennement intéressant. 
 
 # cour 5 #
+## points fort ##
 
+Monn premier point fort était ma presentation visuelle. Selon moi, j'ai bien strucuter mes diapositives, ils étaient simples et esthetiquement agréable. Mon deuxieme point fort était ma presentation en tant que tel, je me suis bien preparer et je n'est pas begayée ou manquer aucune parties. 
+
+## point a améliorer ##
+
+Un point que j'ai à améliorer est ma tonalité. Je doit parler un peu plus fort. Pour l'autre point, je doit plus dinamique.
+
+## présentation préférée ##
+
+La présantion que j'ai le plus aimée était celle de Christopher, car jai bien aimée sa présantatoin visuelle et j'ai trouver qu'il a bien expliqué ses aspects. Il parlait assez fort et il artucculait bien. J'ai rien de mal a dire.
