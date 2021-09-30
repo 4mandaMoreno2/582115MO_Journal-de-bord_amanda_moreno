@@ -69,7 +69,7 @@ Le travail d'un designer numérique consiste en la création de produits ou de s
 # cour 5 #
 ## points fort ##
 
-Monn premier point fort était ma presentation visuelle. Selon moi, j'ai bien strucuter mes diapositives, ils étaient simples et esthetiquement agréable. Mon deuxieme point fort était ma presentation en tant que tel, je me suis bien preparer et je n'est pas begayée ou manquer aucune parties. 
+Mon premier point fort était ma presentation visuelle. Selon moi, j'ai bien strucuter mes diapositives, ils étaient simples et esthetiquement agréable. Mon deuxieme point fort était ma presentation en tant que tel, je me suis bien preparer et je n'est pas begayée ou manquer aucune parties. 
 
 ## point a améliorer ##
 
