@@ -1,4 +1,4 @@
-# Cour 1 #
+# COUR 1 #
 ## Un petit résumé de moi ##
 
 _salut je m'appelle_ **amanda** ~~je suis venue en multimédia parce que j'aime l'art, surtout quand on peu la travailler dans des ordis.~~
@@ -12,7 +12,7 @@ _j'ai connue plein de monde qui on été dans ce domaine, par exemple le graphiq
 ___je ne m'aurais pas vue étudier dans un autre programme, car rien d'autre ne m'intéresse vraiment___
 
 
-# Cour 2 #
+# COUR 2 #
 ## lien 1 ##
 https://w423arli543ke-sh654ip.xyz/mcaf04/index.php?lpkey=16c63146148e23ed46&trkd=bonzer-whites.xyz&lpkey1=d49fbdva2ib17f72&language=fr-FR&scanid=d49fbdva2ib17f72&ip=206.167.24.157&cmpid=2070&cntrid=CA&tsid=50&dm=1&uclick=dva2ib17&uclickhash=dva2ib17-dva2ib17-8rp2-usnt-twa1-qqqq-gx1zfe-2ad523
  
@@ -39,7 +39,7 @@ https://sat.qc.ca/catalogue/preview.php?id=113
 Jai choisis cette instalation car l'éclerage et l'animation etait au point, les couleurs et le ritmes marchait bien enssemble. l'idée de la boule dans une boule etait "minblowing". J'ai bien aimer que le lanimateur fessait lanimation devant tout le monde, cela montre que cest un travail controler et bien imaginé. L'animation eclairage est une autre des chose qui est vraiment intrigant.
 
 
-# Cour 3 #
+# COUR 3 #
 ## emploi 1 ##
 ~~Graphique designer~~
 
@@ -66,7 +66,7 @@ _designer numérique_
 
 Le travail d'un designer numérique consiste en la création de produits ou de services multimédias, en y intégrant du texte, des images, des sons. Il s’occupe du design de produit, du design d’interface et de la conception de l’information ainsi que de son architecture. Le designer doit répondre à la fois aux besoins des utilisateurs et aux objectifs commerciaux. Pour ce domaine, il faut avoir de la créativité, le sens de l’observation et de pouvoir travailler en équipe. Ils peuvent travailler en agence de design, en indépendant, en bureau intégré à une entreprise ou aussi en service Recherche et Développement. Ce travail parait moyennement intéressant. 
 
-# cour 5 #
+# COUR 5 #
 ## points fort ##
 
 Mon premier point fort était ma presentation visuelle. Selon moi, j'ai bien strucuter mes diapositives, ils étaient simples et esthetiquement agréable. Mon deuxieme point fort était ma presentation en tant que tel, je me suis bien preparer et je n'est pas begayée ou manquer aucune parties. 
@@ -78,3 +78,16 @@ Un point que j'ai à améliorer est ma tonalité. Je doit parler un peu plus for
 ## présentation préférée ##
 
 La présantion que j'ai le plus aimée était celle de Christopher, car jai bien aimée sa présantatoin visuelle et j'ai trouver qu'il a bien expliqué ses aspects. Il parlait assez fort et il artucculait bien. J'ai rien de mal a dire.
+
+# COUR 6 #
+
+## question 1 ##
+Quest-ce qui vous a inspirer à utiliser ce genre de materielle pour votre exposition?
+## question 2 ##
+Qu'est-ce qui vous a inspirer de ce concept. D'histoire personnelles, historiques culturelles, etc?
+## question 3 ##
+Pourquoi avez vous choisi cette disposition? A t-elle un parcoure precis?
+## question 4 ##
+POurquoi avez-vous choisi ce theme, ces couleurs, etc?
+## question 5 ##
+Quelle est l'histoire derière l'exposition?
