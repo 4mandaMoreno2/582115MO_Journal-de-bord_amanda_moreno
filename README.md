@@ -94,4 +94,5 @@ Quelle est l'histoire derière l'exposition?
 
 # COUR 10 #
 
-## carte numerique ##
+## carte heuristique ##
+![carte heuristique] 
