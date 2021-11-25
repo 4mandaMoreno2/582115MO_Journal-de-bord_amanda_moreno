@@ -94,12 +94,7 @@ Quelle est l'histoire derière l'exposition?
 
 # COUR 8 #
 ## palette de couleurs ##
-
-
-Outil de présentation:    
-Thème 1 | Thème 2 | Thème 3
---| -- | --
-Nom du thème  | Nom du thème | Nom du thème 
+![palette de couleurs](images/br.png)
 
 # COUR 10 #
 
