@@ -95,4 +95,4 @@ Quelle est l'histoire derière l'exposition?
 # COUR 10 #
 
 ## carte heuristique ##
-![carte heuristique] (Create .gitkeep)
+![carte heuristique](carte.jfif)
