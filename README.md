@@ -95,4 +95,4 @@ Quelle est l'histoire derière l'exposition?
 # COUR 10 #
 
 ## carte heuristique ##
-![carte heuristique](carte.jfif)
+![carte heuristique](images/carte.jfif)
