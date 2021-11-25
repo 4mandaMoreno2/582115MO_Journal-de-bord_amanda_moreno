@@ -96,6 +96,13 @@ Quelle est l'histoire derière l'exposition?
 ## palette de couleurs ##
 ![palette de couleurs](images/br.png)
 
+# COUR 9 #
+## 3 choix de présentations ##
+1. 
+2.
+
+lui que je 
+
 # COUR 10 #
 
 ## carte heuristique ##
