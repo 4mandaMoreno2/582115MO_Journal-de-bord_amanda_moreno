@@ -92,6 +92,15 @@ POurquoi avez-vous choisi ce theme, ces couleurs, etc?
 ## question 5 ##
 Quelle est l'histoire derière l'exposition?
 
+# COUR 8 #
+## palette de couleurs ##
+
+
+Outil de présentation:    
+Thème 1 | Thème 2 | Thème 3
+--| -- | --
+Nom du thème  | Nom du thème | Nom du thème 
+
 # COUR 10 #
 
 ## carte heuristique ##
