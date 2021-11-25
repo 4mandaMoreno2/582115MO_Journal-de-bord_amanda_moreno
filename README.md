@@ -91,3 +91,7 @@ Pourquoi avez vous choisi cette disposition? A t-elle un parcoure precis?
 POurquoi avez-vous choisi ce theme, ces couleurs, etc?
 ## question 5 ##
 Quelle est l'histoire derière l'exposition?
+
+# COUR 10 #
+
+## carte numerique ##
