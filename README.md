@@ -1,18 +1,9 @@
-# COUR 1 #
+# COURS 1 #
 ## Un petit résumé de moi ##
-
-_salut je m'appelle_ **amanda** ~~je suis venue en multimédia parce que j'aime l'art, surtout quand on peu la travailler dans des ordis.~~
-
-***precisement, la photoshop, video éditing, l,animation et plein d'autre chose***
-
-#### Je suis dans le domaibne de la mulimédia depuis que je suis en secondiare 3, mais j'ai toujours aimé la technologie et je savais qu'un jours j'allais travailler dans la technologie ####
-
-_j'ai connue plein de monde qui on été dans ce domaine, par exemple le graphique designe est un métier qui me semble vraiment interesent__
-
-___je ne m'aurais pas vue étudier dans un autre programme, car rien d'autre ne m'intéresse vraiment___
+salut je m'appelle **amanda** je suis venue en _multimédia_ parce que j'aime l'art, surtout quand on peu la travailler dans des ordis.~~ precisement, ***la photoshop***, ***video éditing***, ***l,animation*** et ***plein d'autre chose***.Je suis dans le domaibne de la mulimédia depuis que je suis en _secondiare 3_, mais j'ai toujours aimé la technologie et je savais qu'un jours j'allais travailler dans la technologie. j'ai connue plein de monde qui on été dans ce domaine, par exemple __le graphique designe__ est un métier qui me semble vraiment interesent. je ne m'aurais pas vue étudier dans un autre programme, car rien d'autre ne m'intéresse vraiment.
 
 
-# COUR 2 #
+# COURS 2 #
 ## lien 1 ##
 https://w423arli543ke-sh654ip.xyz/mcaf04/index.php?lpkey=16c63146148e23ed46&trkd=bonzer-whites.xyz&lpkey1=d49fbdva2ib17f72&language=fr-FR&scanid=d49fbdva2ib17f72&ip=206.167.24.157&cmpid=2070&cntrid=CA&tsid=50&dm=1&uclick=dva2ib17&uclickhash=dva2ib17-dva2ib17-8rp2-usnt-twa1-qqqq-gx1zfe-2ad523
  
@@ -39,7 +30,7 @@ https://sat.qc.ca/catalogue/preview.php?id=113
 Jai choisis cette instalation car l'éclerage et l'animation etait au point, les couleurs et le ritmes marchait bien enssemble. l'idée de la boule dans une boule etait "minblowing". J'ai bien aimer que le lanimateur fessait lanimation devant tout le monde, cela montre que cest un travail controler et bien imaginé. L'animation eclairage est une autre des chose qui est vraiment intrigant.
 
 
-# COUR 3 #
+# COURS 3 #
 ## emploi 1 ##
 ~~Graphique designer~~
 
@@ -66,7 +57,27 @@ _designer numérique_
 
 Le travail d'un designer numérique consiste en la création de produits ou de services multimédias, en y intégrant du texte, des images, des sons. Il s’occupe du design de produit, du design d’interface et de la conception de l’information ainsi que de son architecture. Le designer doit répondre à la fois aux besoins des utilisateurs et aux objectifs commerciaux. Pour ce domaine, il faut avoir de la créativité, le sens de l’observation et de pouvoir travailler en équipe. Ils peuvent travailler en agence de design, en indépendant, en bureau intégré à une entreprise ou aussi en service Recherche et Développement. Ce travail parait moyennement intéressant. 
 
-# COUR 5 #
+# COURS 4 #
+## Moi ##
+j'aime dessiner et peinturer dans mes temps libres. J'aime écouter des filmes en même temps, parfois ça m'aide à me concentrer ou même a mais donné des idées. Sinon je coute de la musique, qui donne une atmosphère plus calme.
+
+## Intérêts ##
+J'aime vraiment utiliser des logiciels comme Photoshop, XD, etc. pour faire des projets. J'aime faire de l'animation et de crée de nouveau projets pour n'importe quoi.
+
+## Emplois qui m'intéresse ##
+Quand on m'a demandé ce que je voulais faire plus tard, le premier emploi qui mais venue en tete était d'être graphiste. Sinon, j'avais comme idée de devenir architecte.
+
+## Identification ##
+je n'ai pas trouvé d'entreprise qui me représentait alors, j'ai choisi une personne. Gabrielle Bonheur, _Coco chanel_. Ce qu'elle a fait et ce quelle est maintenant et vraiment intéressent.
+
+## Dans 5 ans? ##
+Honnêtement, je ne sais pas ce que je vais être dans 5 ans. «Mais, j’aimerais vraiment avoir un bon job et avoir fait ma propre maison ou avoir désigner intérieur de mon appart.
+
+## Future Projets ##
+Dans le futur j’aimerais faire un court-métrage ou un film pour Disnay ou bien Dreamwork. J'aimerais donner la même joie que j'avais quand j'écoutais ces filmes, aux jeunes de nos jours.
+
+
+# COURS 5 #
 ## points fort ##
 
 Mon premier point fort était ma presentation visuelle. Selon moi, j'ai bien strucuter mes diapositives, ils étaient simples et esthetiquement agréable. Mon deuxieme point fort était ma presentation en tant que tel, je me suis bien preparer et je n'est pas begayée ou manquer aucune parties. 
@@ -79,7 +90,7 @@ Un point que j'ai à améliorer est ma tonalité. Je doit parler un peu plus for
 
 La présantion que j'ai le plus aimée était celle de Christopher, car jai bien aimée sa présantatoin visuelle et j'ai trouver qu'il a bien expliqué ses aspects. Il parlait assez fort et il artucculait bien. J'ai rien de mal a dire.
 
-# COUR 6 #
+# COURS 6 #
 
 ## question 1 ##
 Quest-ce qui vous a inspirer à utiliser ce genre de materielle pour votre exposition?
@@ -92,18 +103,18 @@ POurquoi avez-vous choisi ce theme, ces couleurs, etc?
 ## question 5 ##
 Quelle est l'histoire derière l'exposition?
 
-# COUR 8 #
+# COURS 8 #
 ## palette de couleurs ##
 ![palette de couleurs](images/br.png)
 
-# COUR 9 #
+# COURS 9 #
 ## 3 choix de présentations ##
 1. 
 2.
 
 lui que je 
 
-# COUR 10 #
+# COURS 10 #
 
 ## carte heuristique ##
 ![carte heuristique](images/carte.jfif)
