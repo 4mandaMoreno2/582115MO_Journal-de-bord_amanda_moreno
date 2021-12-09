@@ -128,7 +128,7 @@ caarton/boite | papier brun |
 # COURS 13 #
 Pour notre présentation on aimerait créer un nouveau monde minecraft. Il y a déjà le _Nether et l'End_ qui est des atmosphères plus ***enfer*** . Il y a aussi le monde marin. Notre idée serait de créer un monde plus ***paradisieux***, où il y aura des fee, des creatures différentes et de nouveaux objets.
 
-![images idées](images/minecraft.jpeg)
+![images idées](images/minecraft.jpg)
 
 
 
