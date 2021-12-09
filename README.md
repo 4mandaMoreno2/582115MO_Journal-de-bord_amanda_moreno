@@ -107,14 +107,26 @@ Quelle est l'histoire derière l'exposition?
 ## palette de couleurs ##
 ![palette de couleurs](images/br.png)
 
+Thème 1 | Thème 2 |
+--| -- |
+caarton/boite | papier brun |
+
 # COURS 9 #
 ## 3 choix de présentations ##
 1. 
 2.
-
-lui que je 
+3.
 
 # COURS 10 #
 
 ## carte heuristique ##
 ![carte heuristique](images/carte.jfif)
+
+# COURS 11 #
+# COURS 12 #
+
+# COURS 13 #
+Pour notre présentation on aimerait créer un nouveau monde minecraft. Il y a déjà le _Nether et l'End_ qui est des atmosphères plus ***enfer*** . Il y a aussi le monde marin. Notre idée serait de créer un monde plus ***paradisieux***, où il y aura des fee, des creatures différentes et de nouveaux objets.
+
+
+
