@@ -130,5 +130,25 @@ Pour notre présentation on aimerait créer un nouveau monde minecraft. Il y a d
 
 ![images idées](images/minecraft.jpg)
 
+# COURS 14 #
+## Résumer votre projet en une phrase ##
+Nous voulons crée un nouveau monde et de nouveaux mods.
+
+## Description du projet ##
+Décrivez les grandes lignes de votre projet. 
+
+## Schéma du projet ou scénarimage ##
+Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+
+## Moodboard ##
+Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+
+## Technologies ##
+Décrivez quelles seront les technologies utilisées dans votre projet. 
+
+## Tâches ##
+Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
+
 
 
