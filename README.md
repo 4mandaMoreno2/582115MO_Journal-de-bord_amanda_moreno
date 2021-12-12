@@ -136,19 +136,24 @@ Pour notre présentation on aimerait créer un nouveau monde minecraft. Il y a d
 Nous voulons crée un nouveau monde et de nouveaux mods.
 
 ## Description du projet ##
-Décrivez les grandes lignes de votre projet. 
 
 ## Schéma du projet ou scénarimage ##
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+![sceranimage](images/MicrosoftTeams-image.png)
 
 ## Moodboard ##
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![images idées](images/minecraft.jpg)
 
 ## Technologies ##
-Décrivez quelles seront les technologies utilisées dans votre projet. 
 
 ## Tâches ##
-le javasrcipt et le laudio
+
+# COURS 15 #
+
+## résumer de la première session ##
+En 8 à 12 lignes; écris un retour sur ta session. Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? As-tu découvert un nouveau métier qui pourrait t'intéresser? As-tu découvert un nouvel artiste qui t'a inspiré? Pour quel type d'entreprise préférerais-tu travailler? Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? Est-ce que tu as préféré une sortie ou une conférence?
+
+Depuis le premier cours, jai apris un peu plus sur ce qui a dans un ordis et leurs utilités. 
+
 
 
 
