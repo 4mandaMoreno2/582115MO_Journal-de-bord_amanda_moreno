@@ -122,7 +122,6 @@ caarton/boite | papier brun |
 ## carte heuristique ##
 ![carte heuristique](images/carte.jfif)
 
-# COURS 11 #
 # COURS 12 #
 ![sceranimage](images/MicrosoftTeams-image.png)
 
