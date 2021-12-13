@@ -135,25 +135,13 @@ Pour notre présentation on aimerait créer un nouveau monde minecraft. Il y a d
 ## Résumer votre projet en une phrase ##
 Nous voulons crée un nouveau monde et de nouveaux mods.
 
-## Description du projet ##
-
 ## Schéma du projet ou scénarimage ##
 ![sceranimage](images/MicrosoftTeams-image.png)
 
 ## Moodboard ##
 ![images idées](images/minecraft.jpg)
 
-## Technologies ##
-
-## Tâches ##
-
 # COURS 15 #
 
 ## résumer de la première session ##
-En 8 à 12 lignes; écris un retour sur ta session. Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? As-tu découvert un nouveau métier qui pourrait t'intéresser? As-tu découvert un nouvel artiste qui t'a inspiré? Pour quel type d'entreprise préférerais-tu travailler? Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? Est-ce que tu as préféré une sortie ou une conférence?
-
-Depuis le premier cours, jai apris un peu plus sur ce qui a dans un ordis et leurs utilités. 
-
-
-
-
+Depuis le premier cours, j'ai connue Github, qui est vraiment le fun a utiliser. j'ai appris un peu plus sur ce qui a dans un ordi et dans leurs utilités. J'ai appris sur les sortes d'entreprise et ce qu'elles rapportaient. Celle qui m'a le plus intéressé était l'entreprise de ***milieu artistique a travail autonome***, car j'aime bien être dépendante à moi-même et faire les choses de ma manière.Pour mon métier, je n'ai pas vraiment changé d'avis.Mais, jen est appris un peu plus sur ce metier.Pour finir, être allé visiter des œuvres m'a vraiment, montrer qu'on pouvait tourner vraiment n’importe quoi en arts. Celle que j'ai le plus aimé était l'oasis immersion, car elle était iréale.  J'ai bien-aimé la conférence du monsieur qui est venu parler des différentes sortes de jeux. (société, vidéo, interactive, etc.)
